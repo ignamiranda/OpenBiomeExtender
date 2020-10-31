@@ -1,16 +1,16 @@
 # OpenBiomeExtender
 A No Man's Sky mod that enhances the collaborative modding of biomes
 
-# What does this mod do?
+## What does this mod do?
 
-## For players
+### For players
 
-### Compatibility
+#### Compatibility
 
-### Customizability
+#### Customizability
 
-## For modders
+### For modders
 
-### Splits Object Lists Into Layers
+#### Splits Object Lists Into Layers
 
-### Consolidates Redundant Biomes
+#### Consolidates Redundant Biomes
