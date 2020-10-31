@@ -24,16 +24,19 @@ This change has the upside of being able to easily add objects to a pool off pos
 
 In theory, you could have any number of layers you like, creating an ultra-complex and nuanced system that varies planets in uncountable ways. For the sake of simplicity and collaboration, this mod aims to have a simple, unified system based off the categories Hello Games already uses in their biome files: **DistantObjects, Landmarks, Objects, DetailObjects**
 
-Every biome has these four layers. Although the best way to understand them is by looking at them in the game files, here's a quick summary of what each one is:
+Although the best way to understand them is by looking at them in the game files, here's a quick summary of what each one is:
 
-* DistantObjects - Generally used for giant objects such as volcanoes and mega-trees. By default, this layer only spawns in 10% of biomes.
-* Landmarks
+* **DistantObjects** - Used for giant objects such as volcanoes and mega-trees. By default, this layer only spawns in 10% of biomes.
+* **Landmarks** - Used for the second largest objects in the game. These mostly include large rocks, trees and the largest plants in a regular Toxic/Radio/Scorched/ biome.
+* **Objects** - Used for medium sized props, generally smaller than the player, such as boulders, bushes, medium sized plants, etc.
+* **DetailObjects** - Used for the smallest props and groundcover. This includes: grass, flowers, small rocks, small mushrooms, cave stalagmites and stalagtites.
 
 ##### The Minor Downside
 
+Any system that has more or less than 4 object lists, can't use the LifeLevel feature provided by the game. By default this is off for all biomes in this mod. This downside is small compared to the gains in variety and complexity. Over time, subtypes that use LifeLevel have become a small minority as Hello Games has added many biomes that only have one object list.
 
 #### Consolidates Redundant Biome Subtypes
 
 Hello Games has a tendency to make biome subtypes that aren't conceptually different from each other. There's no reason why there needs to be a Frozen biome, a Frozen Rocky biome and a Frozen HQ biome. These could be accomplished through having multiple object lists in one biome.
 
-For a subtype to be considered non-redundant it must have either a unique color palette, description from space, floor texture,  tiletypes, etc. Otherwise, if the only major difference is their object lists, they're consolidated into one biome.
+For a subtype to be considered non-redundant it must have either a unique color palette, description from space, floor texture,  tiletypes, etc. Otherwise, if the only major difference is their object lists, they're consolidated into one biome. This simplifies the modding process and increases variety now that their object lists can mishmash together.
