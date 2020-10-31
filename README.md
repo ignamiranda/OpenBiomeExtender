@@ -40,3 +40,7 @@ Any system that has more or less than 4 object lists, can't use the LifeLevel fe
 Hello Games has a tendency to make biome subtypes that aren't conceptually different from each other. There's no reason why there needs to be a Frozen biome, a Frozen Rocky biome and a Frozen HQ biome. These could be accomplished through having multiple object lists in one biome.
 
 For a subtype to be considered non-redundant it must have either a unique color palette, description from space, floor texture,  tiletypes, etc. Otherwise, if the only major difference is their object lists, they're consolidated into one biome. This simplifies the modding process and increases variety now that their object lists can mishmash together.
+
+## How to get started modding with OpenBiomeExtender
+
+* If you want to learn how to make a module, go [here](https://github.com/ignamiranda/OpenBiomeExtender/blob/main/Docs/How%20To%20Make%20A%20Module.md)
