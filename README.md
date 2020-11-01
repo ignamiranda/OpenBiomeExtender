@@ -41,6 +41,10 @@ Hello Games has a tendency to make biome subtypes that aren't conceptually diffe
 
 For a subtype to be considered non-redundant it must have either a unique color palette, description from space, floor texture,  tiletypes, etc. Otherwise, if the only major difference is their object lists, they're consolidated into one biome. This simplifies the modding process and increases variety now that their object lists can mishmash together.
 
+#### Mountain Object Lists Are Now Biome Specific
+
+In my modding, mountains have always felt limited because they appear on all types of biomes equally. I couldn't make a mountains object list that was too lush because it would look wrong in the Dead biome. To solve this 
+
 ## How to get started modding with OpenBiomeExtender
 
 * If you want to learn how to make a module, go [here](https://github.com/ignamiranda/OpenBiomeExtender/blob/main/Docs/How%20To%20Make%20A%20Module.md)
