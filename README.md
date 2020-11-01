@@ -47,4 +47,4 @@ In my modding, mountains have always felt limited because they appear on all typ
 
 ## How to get started modding with OpenBiomeExtender
 
-* If you want to learn how to make a module, go [here](https://github.com/ignamiranda/OpenBiomeExtender/blob/main/Docs/How%20To%20Make%20A%20Module.md)
+* If you want to learn how to make a mod for OpenBiomeExtender, go [here]()
