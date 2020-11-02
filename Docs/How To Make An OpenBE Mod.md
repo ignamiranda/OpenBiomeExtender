@@ -1,6 +1,6 @@
 # How to Make A Mod That Uses OpenBiomeExtender
 
-This guide assumes some basic knowledge of [AMUMSS](https://www.nexusmods.com/nomanssky/mods/957). If you're not familiar with it, check out the templates provided with the AMUMSS download and ask questions in the #mod-amumss channel of the [No Man's Sky Modding](https://discord.gg/Zrq8K2v) Discord server.
+This guide assumes some basic knowledge of [AMUMSS](https://www.nexusmods.com/nomanssky/mods/957). If you're not familiar with it, check out the templates provided with the AMUMSS download and ask questions in the [#mod-amumss channel](https://discord.gg/Zrq8K2v) of the [No Man's Sky Modding](https://discord.gg/Zrq8K2v) Discord server.
 
 ## Summary
 
