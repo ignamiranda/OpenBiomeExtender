@@ -1,12 +1,23 @@
 # How to Make A Mod That Uses OpenBiomeExtender
 
-# Making a script
+## Summary
 
-## One feature per script
+* One feature per script
+* Make your script only reliant on itself and OpenBE
+  * If it *is* reliant on another mod or script, say so in the script's name
+* Package your mod into three folders: Pre-Built Patch, Individual Scripts and Assets
 
-## Creating an object list
+## Making a script
 
-# Packaging your mod
+### One feature per script
+
+### Naming Your Script
+
+Template: 00-OpenBEModule-YourName-YourFeatureName.lua
+
+### Creating an object list
+
+## Packaging your mod
 
 Pre-Built
 
