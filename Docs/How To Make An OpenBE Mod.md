@@ -39,6 +39,8 @@ If load order isn't important for your script, just set your number to **50**, p
 
 ### Creating an object list
 
+#### DON't USE "REMOVE" TAGS
+
 
 ### Adding an object list to a biome
 
