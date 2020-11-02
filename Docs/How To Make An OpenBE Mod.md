@@ -17,6 +17,8 @@ Template: 00-OpenBEModule-YourName-YourFeatureName.lua
 
 ### Creating an object list
 
+### Adding an object list to a biome
+
 ## Packaging your mod
 
 Pre-Built
