@@ -39,6 +39,12 @@ If load order isn't important for your script, just set your number to **50**, p
 
 ### Creating an object list
 
+Put your object lists in the right folder.
+
+#### Typing it manually
+
+#### Copying a script
+
 #### DON'T USE "REMOVE" TAGS
 
 There are two ways of making an object list: writing it by hand or copying a vanilla one and modifying it.
