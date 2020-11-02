@@ -57,24 +57,25 @@ There are two ways of making an object list: writing it by hand or copying a van
 ### Adding an object list to a biome
 
 ```
-{
-	["MBIN_FILE_SOURCE"] 	= { --List the biomes you want to modify
-	"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/RADIOACTIVE/RADIOACTIVEBIOME.MBIN",
-	"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/RADIOACTIVE/RADIOINFESTEDBIOME.MBIN",
-	},
+{--Add these new object lists to the appropriate biomes
+	["MBIN_FILE_SOURCE"] 	= {"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/LUSH/LUSHBIOME.MBIN"},
 	["EXML_CHANGE_TABLE"] = {
 		{
-			--Name the "Layer" you want to add object lists to. In this case it's "DETAILOBJECTS" but it could be "LANDMARKS" etc.
-			["SPECIAL_KEY_WORDS"] = {"Name","DETAILOBJECTS"}, 
+			--Name the "Layer" you want to add object lists to. In this case it's "LANDMARKS" but it could be "DETAILOBJECTS" etc.
+
+			["SPECIAL_KEY_WORDS"] = {"Name","LANDMARKS"},
 			["PRECEDING_KEY_WORDS"] = {"Options"},
 			["ADD"] =
 [[        <Property value="NMSString0x80.xml">
-<Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHROOMAOBJECTS.MBIN" />
+<Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/CODENAMEAWESOME/LANDMARKS/LUSH/LEGACYTREESOBJECTSLOW.MBIN" />
 </Property>
 <Property value="NMSString0x80.xml">
-<Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHROOMBOBJECTS.MBIN" />
+<Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/CODENAMEAWESOME/LANDMARKS/LUSH/LEGACYTREESOBJECTSMID.MBIN" />
+</Property>
+<Property value="NMSString0x80.xml">
+<Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/CODENAMEAWESOME/LANDMARKS/LUSH/LEGACYTREESOBJECTSFULL.MBIN" />
 </Property>]]
-		},
+		}
 	}
 },
 ```
