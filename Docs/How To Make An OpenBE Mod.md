@@ -11,6 +11,8 @@ This guide assumes some basic knowledge of [AMUMSS](https://www.nexusmods.com/no
 
 ## Making a script
 
+### Always use the same BATCHNAME
+
 ### One feature per script
 
 OpenBE users will regularly be making combined pak files with AMUMSS. You don't have to put all your features in one place because they'll be merging them anyway. For the sake of player customizability, try to have only one feature per script. That way the player can pick and choose which scripts they want added to their game to make the ultimate tailored experience for themselves.
