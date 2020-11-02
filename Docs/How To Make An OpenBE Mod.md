@@ -17,6 +17,8 @@ This guide assumes some basic knowledge of [AMUMSS](https://www.nexusmods.com/no
 
 Template: 00-OpenBEModule-YourName-YourFeatureName.lua
 
+#### Load Order Is Important
+
 ### Creating an object list
 
 ### Adding an object list to a biome
