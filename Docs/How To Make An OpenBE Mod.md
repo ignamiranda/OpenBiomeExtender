@@ -64,7 +64,8 @@ There are two ways of making an object list: writing it by hand or copying a van
 	},
 	["EXML_CHANGE_TABLE"] = {
 		{
-			["SPECIAL_KEY_WORDS"] = {"Name","DETAILOBJECTS"}, --Name the "Layer" you want to add object lists to.
+			--Name the "Layer" you want to add object lists to. In this case it's "DETAILOBJECTS" but it could be "LANDMARKS" etc.
+			["SPECIAL_KEY_WORDS"] = {"Name","DETAILOBJECTS"}, 
 			["PRECEDING_KEY_WORDS"] = {"Options"},
 			["ADD"] =
 [[        <Property value="NMSString0x80.xml">
