@@ -13,13 +13,30 @@ This guide assumes some basic knowledge of [AMUMSS](https://www.nexusmods.com/no
 
 ### One feature per script
 
+OpenBE users will regularly be making combined pak files with AMUMSS. You don't have to put all your features in one place because they'll be merging them anyway. For the sake of player customizability, try to have only one feature per script. That way the player can pick and choose which scripts they want added to their game to make the ultimate tailored experience for themselves.
+
+### Scripts should work independently
+
+For the same reason, your scripts should be self reliant. With each script, assume that the only other mod the player is running is OpenBE. Don't reference files that won't be there if the player decides to not use all your scripts.
+
 ### Naming Your Script
 
 Template: 00-OpenBEModule-YourName-YourFeatureName.lua
 
+If you absolutely have to make a script that is completely dependent on another script, you can indicate that in your script name. For example, if your script relies on a mod called *00-OpenBEModule-ModderGuy-WigglyTrees.lua* you could name your script *01-OpenBEModule-CoolModder-LushWorlds-WigglyTreesPatch.lua*. The *01* at the beginning ensure that the script runs after the original mod and the *-WigglyTreesPatch* communicates to the player that this is a mod that is intended to be used with another mod.
+
 #### Load Order Is Important
 
+As mentioned before, our naming scheme includes a number at the beginning that indicates the load order of your script. If you have a script that you want to affect every other script in the load order, you should use a low number like *00*.
+
+For example, a mod that makes the Vanilla trees slightly bigger could set its number to 00 and it will run first. Then, when any following scripts make copies of those Tree object lists, they will be affected by the tweaked scale.
+
+Alternatively, a mod that wants to add a color palette to the game while keeping all other scripts' changes to a biome could set its number to *99*. It will only run after all other scripts have run. Then it can copy the finalized biome file and then add the new palette.
+
+If load order isn't important for your script, just set your number to *50*, putting it right in the middle of the load order.
+
 ### Creating an object list
+
 
 ### Adding an object list to a biome
 
