@@ -27,13 +27,15 @@ If you absolutely have to make a script that is completely dependent on another 
 
 #### Load Order Is Important
 
-As mentioned before, our naming scheme includes a number at the beginning that indicates the load order of your script. If you have a script that you want to affect every other script in the load order, you should use a low number like *00*.
+There are 100 "tiers" of priority. From 00 to 99.
+
+As mentioned before, our naming scheme includes a number at the beginning that indicates the load order of your script. If you have a script that you want to affect every other script in the load order, you should use a low number like **00**.
 
 For example, a mod that makes the Vanilla trees slightly bigger could set its number to 00 and it will run first. Then, when any following scripts make copies of those Tree object lists, they will be affected by the tweaked scale.
 
-Alternatively, a mod that wants to add a color palette to the game while keeping all other scripts' changes to a biome could set its number to *99*. It will only run after all other scripts have run. Then it can copy the finalized biome file and then add the new palette.
+Alternatively, a mod that wants to add a color palette to the game while keeping all other scripts' changes to a biome could set its number to **99**. It will only run after all other scripts have run. Then it can copy the finalized biome file and then add the new palette.
 
-If load order isn't important for your script, just set your number to *50*, putting it right in the middle of the load order.
+If load order isn't important for your script, just set your number to **50**, putting it right in the middle of the load order.
 
 ### Creating an object list
 
