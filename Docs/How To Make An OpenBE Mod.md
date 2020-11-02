@@ -45,14 +45,14 @@ If load order isn't important for your script, just set your number to **50**, p
 ### Adding an object list to a biome
 
 ```
-{--Add glow grass to Radio biomes
-	["MBIN_FILE_SOURCE"] 	= {
+{
+	["MBIN_FILE_SOURCE"] 	= { --List the biomes you want to modify
 	"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/RADIOACTIVE/RADIOACTIVEBIOME.MBIN",
 	"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/RADIOACTIVE/RADIOINFESTEDBIOME.MBIN",
 	},
 	["EXML_CHANGE_TABLE"] = {
 		{
-			["SPECIAL_KEY_WORDS"] = {"Name","DETAILOBJECTS"},
+			["SPECIAL_KEY_WORDS"] = {"Name","DETAILOBJECTS"}, --Name the "Layer" you want to add object lists to.
 			["PRECEDING_KEY_WORDS"] = {"Options"},
 			["ADD"] =
 [[        <Property value="NMSString0x80.xml">
