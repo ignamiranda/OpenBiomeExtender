@@ -44,6 +44,28 @@ If load order isn't important for your script, just set your number to **50**, p
 
 ### Adding an object list to a biome
 
+```
+{--Add glow grass to Radio biomes
+	["MBIN_FILE_SOURCE"] 	= {
+	"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/RADIOACTIVE/RADIOACTIVEBIOME.MBIN",
+	"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/RADIOACTIVE/RADIOINFESTEDBIOME.MBIN",
+	},
+	["EXML_CHANGE_TABLE"] = {
+		{
+			["SPECIAL_KEY_WORDS"] = {"Name","DETAILOBJECTS"},
+			["PRECEDING_KEY_WORDS"] = {"Options"},
+			["ADD"] =
+[[        <Property value="NMSString0x80.xml">
+<Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHROOMAOBJECTS.MBIN" />
+</Property>
+<Property value="NMSString0x80.xml">
+<Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHROOMBOBJECTS.MBIN" />
+</Property>]]
+		},
+	}
+},
+```
+
 ## Packaging your mod
 
 Pre-Built
