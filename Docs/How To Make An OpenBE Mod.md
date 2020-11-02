@@ -21,9 +21,9 @@ For the same reason, your scripts should be self reliant. With each script, assu
 
 ### Naming Your Script
 
-Template: 00-OpenBEModule-YourName-YourFeatureName.lua
+Template: **00-OpenBEModule-YourName-YourFeatureName.lua**
 
-If you absolutely have to make a script that is completely dependent on another script, you can indicate that in your script name. For example, if your script relies on a mod called *00-OpenBEModule-ModderGuy-WigglyTrees.lua* you could name your script *01-OpenBEModule-CoolModder-LushWorlds-WigglyTreesPatch.lua*. The *01* at the beginning ensure that the script runs after the original mod and the *-WigglyTreesPatch* communicates to the player that this is a mod that is intended to be used with another mod.
+If you absolutely have to make a script that is completely dependent on another script, you can indicate that in your script name. For example, if your script relies on a mod called **00-OpenBEModule-ModderGuy-WigglyTrees.lua** you could name your script **01-OpenBEModule-CoolModder-LushWorlds-WigglyTreesPatch.lua**. The **01** at the beginning ensure that the script runs after the original mod and the **-WigglyTreesPatch** communicates to the player that this is a mod that is intended to be used with another mod.
 
 #### Load Order Is Important
 
