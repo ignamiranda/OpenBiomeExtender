@@ -22,7 +22,7 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="Name" value="DISTANTOBJECTS" />
       <Property name="ResourceHint" value="" />
       <Property name="ResourceHintIcon" value="" />
-      <Property name="Probability" value="1" />
+      <Property name="Probability" value="0.1" />
       <Property name="TileType" value="GcTerrainTileType.xml">
         <Property name="TileType" value="Base" />
       </Property>
