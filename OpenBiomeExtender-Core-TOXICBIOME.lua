@@ -11,10 +11,10 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKSCRUB.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKSCRUB.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -30,7 +30,7 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/TOXIC/TOXICBIGPROPSOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/TOXIC/TOXICBIGPROPSOBJECTSFULL.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -46,16 +46,16 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/LANDMARKS/TOXIC/TOXICEGGSMOONOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/TOXIC/TOXICEGGSMOONOBJECTS.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/LANDMARKS/TOXIC/TOXICOBJECTSLOW.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/TOXIC/TOXICOBJECTSLOW.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/LANDMARKS/TOXIC/TOXICOBJECTSMID.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/TOXIC/TOXICOBJECTSMID.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/LANDMARKS/TOXIC/TOXICOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/TOXIC/TOXICOBJECTSFULL.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -71,22 +71,22 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/TOXIC/TOXICBIGPROPSOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/TOXIC/TOXICBIGPROPSOBJECTSFULL.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/TOXIC/TOXICEGGSMOONOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/TOXIC/TOXICEGGSMOONOBJECTS.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/TOXIC/TOXICOBJECTSDEAD.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/TOXIC/TOXICOBJECTSDEAD.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/TOXIC/TOXICOBJECTSLOW.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/TOXIC/TOXICOBJECTSLOW.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/TOXIC/TOXICOBJECTSMID.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/TOXIC/TOXICOBJECTSMID.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/TOXIC/TOXICOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/TOXIC/TOXICOBJECTSFULL.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -102,22 +102,22 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/TOXIC/TOXICBIGPROPSOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/TOXIC/TOXICBIGPROPSOBJECTSFULL.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/TOXIC/TOXICEGGSMOONOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/TOXIC/TOXICEGGSMOONOBJECTS.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/TOXIC/TOXICOBJECTSDEAD.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/TOXIC/TOXICOBJECTSDEAD.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/TOXIC/TOXICOBJECTSLOW.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/TOXIC/TOXICOBJECTSLOW.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/TOXIC/TOXICOBJECTSMID.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/TOXIC/TOXICOBJECTSMID.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/TOXIC/TOXICOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/TOXIC/TOXICOBJECTSFULL.MBIN" />
         </Property>
       </Property>
     </Property>]]
@@ -136,11 +136,11 @@ NMS_MOD_DEFINITION_CONTAINER =
 			{
 				{
 					["MBIN_FILE_SOURCE"] = {
-						{"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/TOXIC/TOXICBIOME.MBIN","METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/TOXIC/TOXICBIOME.MBIN","REMOVE"}
+						{"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/TOXIC/TOXICBIOME.MBIN","OPENBE/BIOMEFILES/TOXIC/TOXICBIOME.MBIN","REMOVE"}
 					},
 				},
 				{
-					["MBIN_FILE_SOURCE"] = {"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/TOXIC/TOXICBIOME.MBIN"},
+					["MBIN_FILE_SOURCE"] = {"OPENBE/BIOMEFILES/TOXIC/TOXICBIOME.MBIN"},
 					["EXML_CHANGE_TABLE"] = 
 					{
 						{

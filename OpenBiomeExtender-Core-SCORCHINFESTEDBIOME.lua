@@ -11,10 +11,10 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKSCRUB.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKSCRUB.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -30,7 +30,7 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/SCORCHED/SCORCHBIGPROPSOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/SCORCHED/SCORCHBIGPROPSOBJECTSFULL.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -46,7 +46,7 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/LANDMARKS/SCORCHED/SCORCHEDALIENOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/SCORCHED/SCORCHEDALIENOBJECTS.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -62,7 +62,7 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/SCORCHED/SCORCHEDALIENOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/SCORCHED/SCORCHEDALIENOBJECTS.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -78,7 +78,7 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/SCORCHED/SCORCHEDALIENOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/SCORCHED/SCORCHEDALIENOBJECTS.MBIN" />
         </Property>
       </Property>
     </Property>]]
@@ -97,13 +97,21 @@ NMS_MOD_DEFINITION_CONTAINER =
 			{
 				{
 					["MBIN_FILE_SOURCE"] = {
-						{"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/SCORCHED/SCORCHINFESTEDBIOME.MBIN","METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/SCORCHED/SCORCHINFESTEDBIOME.MBIN","REMOVE"},
+						{"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/SCORCHED/SCORCHINFESTEDBIOME.MBIN","OPENBE/BIOMEFILES/SCORCHED/SCORCHINFESTEDBIOME.MBIN","REMOVE"},
 					},
 				},
 				{
-					["MBIN_FILE_SOURCE"] = {"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/SCORCHED/SCORCHINFESTEDBIOME.MBIN"},
+					["MBIN_FILE_SOURCE"] = {"OPENBE/BIOMEFILES/SCORCHED/SCORCHINFESTEDBIOME.MBIN"},
 					["EXML_CHANGE_TABLE"] = 
 					{
+						{
+							["SPECIAL_KEY_WORDS"] = {"Name","MAIN"},
+							["REMOVE"] = "SECTION",
+						},
+						{
+							["SPECIAL_KEY_WORDS"] = {"Name","MAIN_ULTRA"},
+							["REMOVE"] = "SECTION",
+						},
 						{
 							["PRECEDING_KEY_WORDS"] = {"ExternalObjectLists"},
 							["ADD"] = SPLIT_OBJECT_LISTS,

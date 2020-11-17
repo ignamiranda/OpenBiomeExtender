@@ -11,7 +11,7 @@ CRYSTALS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/OBJECTS/CRYSTALS/FULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/OBJECTS/CRYSTALS/FULL.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -27,7 +27,7 @@ CRYSTALS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/CRYSTALS/FULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/CRYSTALS/FULL.MBIN" />
         </Property>
       </Property>
     </Property>]]
@@ -43,7 +43,7 @@ CRYSTALSCAVE = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/OBJECTS/CRYSTALS/CAVEFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/OBJECTS/CRYSTALS/CAVEFULL.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -59,7 +59,7 @@ CRYSTALSCAVE = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/CRYSTALS/CAVEFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/CRYSTALS/CAVEFULL.MBIN" />
         </Property>
       </Property>
     </Property>]]
@@ -75,13 +75,13 @@ CAVE = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/CAVE/CAVEBIOMEFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/CAVE/CAVEBIOMEFULL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/CAVE/CAVEBIOMEGRASSBUSHES.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/CAVE/CAVEBIOMEGRASSBUSHES.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/CAVE/CAVEBIOMESPARSETOXIC.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/CAVE/CAVEBIOMESPARSETOXIC.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -97,13 +97,13 @@ CAVE = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/CAVE/CAVEBIOMEFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/CAVE/CAVEBIOMEFULL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/CAVE/CAVEBIOMEGRASSBUSHES.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/CAVE/CAVEBIOMEGRASSBUSHES.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/CAVE/CAVEBIOMESPARSETOXIC.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/CAVE/CAVEBIOMESPARSETOXIC.MBIN" />
         </Property>
       </Property>
     </Property>]]
@@ -119,22 +119,22 @@ UNDERWATER = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/UNDERWATER/UNDERWATERGASBAGS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/UNDERWATER/UNDERWATERGASBAGS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/UNDERWATER/UNDERWATERCRYSTALS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/UNDERWATER/UNDERWATERCRYSTALS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/UNDERWATER/UNDERWATERCUCUMBERLIGHTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/UNDERWATER/UNDERWATERCUCUMBERLIGHTS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/UNDERWATER/UNDERWATERCURVECORAL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/UNDERWATER/UNDERWATERCURVECORAL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/UNDERWATER/UNDERWATERMONOLITHS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/UNDERWATER/UNDERWATERMONOLITHS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/UNDERWATER/UNDERWATERFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/UNDERWATER/UNDERWATERFULL.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -150,22 +150,22 @@ UNDERWATER = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/UNDERWATER/UNDERWATERGASBAGS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/UNDERWATER/UNDERWATERGASBAGS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/UNDERWATER/UNDERWATERCRYSTALS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/UNDERWATER/UNDERWATERCRYSTALS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/UNDERWATER/UNDERWATERCUCUMBERLIGHTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/UNDERWATER/UNDERWATERCUCUMBERLIGHTS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/UNDERWATER/UNDERWATERCURVECORAL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/UNDERWATER/UNDERWATERCURVECORAL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/UNDERWATER/UNDERWATERMONOLITHS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/UNDERWATER/UNDERWATERMONOLITHS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/UNDERWATER/UNDERWATERFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/UNDERWATER/UNDERWATERFULL.MBIN" />
         </Property>
       </Property>
     </Property>]]
@@ -191,7 +191,7 @@ NMS_MOD_DEFINITION_CONTAINER =
 							["REPLACE_TYPE"] 		= "RAW",
 							["VALUE_CHANGE_TABLE"] 	=
 							{
-								{ [["METADATA/SIMULATION/SOLARSYSTEM/BIOMES/]],	[["METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/]] },
+								{ [["METADATA/SIMULATION/SOLARSYSTEM/BIOMES/]],	[["OPENBE/BIOMEFILES/]] },
 							}
 						},
 						{

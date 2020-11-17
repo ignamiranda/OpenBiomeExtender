@@ -11,10 +11,10 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKSCRUB.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKSCRUB.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -30,7 +30,7 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/BARREN/BARRENBIGPROPSOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/BARREN/BARRENBIGPROPSOBJECTSFULL.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -46,28 +46,28 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENHIVESOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENHIVESOBJECTS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENHQOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENHQOBJECTSFULL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENCORALOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENCORALOBJECTS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENOBJECTSLOW.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENOBJECTSLOW.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENOBJECTSMID.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENOBJECTSMID.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENOBJECTSFULL.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENROCKYOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENROCKYOBJECTS.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENROCKYWEIRDOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENROCKYWEIRDOBJECTS.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -83,34 +83,34 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENBIGPROPSOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENBIGPROPSOBJECTSFULL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENHIVESOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENHIVESOBJECTS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENHQOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENHQOBJECTSFULL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENCORALOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENCORALOBJECTS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENOBJECTSDEAD.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENOBJECTSDEAD.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENOBJECTSLOW.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENOBJECTSLOW.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENOBJECTSMID.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENOBJECTSMID.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENOBJECTSFULL.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENROCKYOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENROCKYOBJECTS.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENROCKYWEIRDOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/BARREN/BARRENROCKYWEIRDOBJECTS.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -126,34 +126,34 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENBIGPROPSOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENBIGPROPSOBJECTSFULL.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENHIVESOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENHIVESOBJECTS.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENHQOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENHQOBJECTSFULL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENCORALOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENCORALOBJECTS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENOBJECTSDEAD.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENOBJECTSDEAD.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENOBJECTSLOW.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENOBJECTSLOW.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENOBJECTSMID.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENOBJECTSMID.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENOBJECTSFULL.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENROCKYOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENROCKYOBJECTS.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENROCKYWEIRDOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/BARREN/BARRENROCKYWEIRDOBJECTS.MBIN" />
         </Property>
       </Property>
     </Property>]]
@@ -172,11 +172,11 @@ NMS_MOD_DEFINITION_CONTAINER =
 			{
 				{
 					["MBIN_FILE_SOURCE"] = {
-						{"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BARREN/BARRENBIOME.MBIN","METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/BARREN/BARRENBIOME.MBIN","REMOVE"}
+						{"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BARREN/BARRENBIOME.MBIN","OPENBE/BIOMEFILES/BARREN/BARRENBIOME.MBIN","REMOVE"}
 					},
 				},
 				{
-					["MBIN_FILE_SOURCE"] = {"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/BARREN/BARRENBIOME.MBIN"},
+					["MBIN_FILE_SOURCE"] = {"OPENBE/BIOMEFILES/BARREN/BARRENBIOME.MBIN"},
 					["EXML_CHANGE_TABLE"] = 
 					{
 						{

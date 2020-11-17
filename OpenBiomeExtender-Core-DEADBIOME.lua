@@ -11,10 +11,10 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKSCRUB.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/OBJECTS/MOUNTAIN/MOUNTAINROCKSCRUB.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -30,16 +30,16 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/DEAD/DEADBIGPROPSOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/DEAD/DEADBIGPROPSOBJECTSFULL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR1.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR1.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR2.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR2.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR3.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR3.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -55,7 +55,7 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENROCKYOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENROCKYOBJECTS.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -71,19 +71,19 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/DEAD/DEADOBJECTSDEAD.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/DEAD/DEADOBJECTSDEAD.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/DEAD/DEADBIGPROPSOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/DEAD/DEADBIGPROPSOBJECTSFULL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR1.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR1.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR2.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR2.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/OBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR3.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR3.MBIN" />
         </Property>
       </Property>
     </Property>
@@ -99,19 +99,19 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/DEAD/DEADOBJECTSDEAD.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/DEAD/DEADOBJECTSDEAD.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/DEAD/DEADBIGPROPSOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/DEAD/DEADBIGPROPSOBJECTSFULL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR1.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR1.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR2.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR2.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR3.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/DEAD/DEADBIGPROPSOBJECTSVAR3.MBIN" />
         </Property>
       </Property>
     </Property>]]
@@ -130,13 +130,17 @@ NMS_MOD_DEFINITION_CONTAINER =
 			{
 				{
 					["MBIN_FILE_SOURCE"] = {
-						{"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/DEAD/DEADBIOME.MBIN","METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/DEAD/DEADBIOME.MBIN","REMOVE"},
+						{"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/DEAD/DEADBIOME.MBIN","OPENBE/BIOMEFILES/DEAD/DEADBIOME.MBIN","REMOVE"},
 					},
 				},
 				{
-					["MBIN_FILE_SOURCE"] = {"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OPENBE/BIOMEFILES/DEAD/DEADBIOME.MBIN"},
+					["MBIN_FILE_SOURCE"] = {"OPENBE/BIOMEFILES/DEAD/DEADBIOME.MBIN"},
 					["EXML_CHANGE_TABLE"] = 
 					{
+						{
+							["SPECIAL_KEY_WORDS"] = {"Name","MAIN"},
+							["REMOVE"] = "SECTION",
+						},
 						{
 							["PRECEDING_KEY_WORDS"] = {"ExternalObjectLists"},
 							["ADD"] = SPLIT_OBJECT_LISTS,
