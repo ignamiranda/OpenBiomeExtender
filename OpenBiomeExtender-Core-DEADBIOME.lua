@@ -142,6 +142,10 @@ NMS_MOD_DEFINITION_CONTAINER =
 							["REMOVE"] = "SECTION",
 						},
 						{
+							["SPECIAL_KEY_WORDS"] = {"Name","CRYSTALS"},
+							["REMOVE"] = "SECTION",
+						},
+						{
 							["PRECEDING_KEY_WORDS"] = {"ExternalObjectLists"},
 							["ADD"] = SPLIT_OBJECT_LISTS,
 						},

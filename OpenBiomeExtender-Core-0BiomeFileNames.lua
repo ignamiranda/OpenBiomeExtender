@@ -67,7 +67,7 @@ CAVE = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="Name" value="CAVE_OBJ" />
       <Property name="ResourceHint" value="" />
       <Property name="ResourceHintIcon" value="" />
-      <Property name="Probability" value="1" />
+      <Property name="Probability" value="0.7" />
       <Property name="TileType" value="GcTerrainTileType.xml">
         <Property name="TileType" value="Cave" />
       </Property>
@@ -76,9 +76,6 @@ CAVE = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="Options">
         <Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/CAVE/CAVEBIOMEFULL.MBIN" />
-        </Property>
-        <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/CAVE/CAVEBIOMEGRASSBUSHES.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/CAVE/CAVEBIOMESPARSETOXIC.MBIN" />
