@@ -5,12 +5,12 @@
 
 NMS_MOD_DEFINITION_CONTAINER = 
 {
-  ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-UnusedColorPalettes.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_DESCRIPTION"]		= "Adds multiple grass layers of varirying densities to vastly increase grass render distance",         --optional, for reference
-  ["MOD_AUTHOR"]				= "",         --optional, for reference
-  ["NMS_VERSION"]				= "2.0",     --optional, for reference
-  ["MODIFICATIONS"] 		=             --REQUIRED SECTION
+  ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-UnusedColorPalettes.pak",
+  ["MOD_DESCRIPTION"]		= "Adds multiple grass layers of varirying densities to vastly increase grass render distance",
+  ["MOD_AUTHOR"]				= "CodenameAwesome",
+  ["NMS_VERSION"]				= "3.13",
+  ["MODIFICATIONS"] 		= 
 	{
 		{
 			["MBIN_CHANGE_TABLE"] = 

@@ -725,12 +725,12 @@ HYDRO_OBJECTS = [[      <Property value="GcObjectSpawnData.xml">
 
 NMS_MOD_DEFINITION_CONTAINER = 
 {
-  ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-VariedHydroGarden.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_DESCRIPTION"]		= "Creates a copy of all Lush object lists and adds Hydrogarden objects for the HydroGarden biome",         --optional, for reference
-  ["MOD_AUTHOR"]				= "",         --optional, for reference
-  ["NMS_VERSION"]				= "2.0",     --optional, for reference
-  ["MODIFICATIONS"] 		=             --REQUIRED SECTION
+  ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-VariedHydroGarden.pak",
+  ["MOD_DESCRIPTION"]		= "Creates a copy of all Lush object lists and adds Hydrogarden objects for the HydroGarden biome",
+  ["MOD_AUTHOR"]				= "CodenameAwesome",
+  ["NMS_VERSION"]				= "3.13",
+  ["MODIFICATIONS"] 		= 
 	{
 		{
 			["MBIN_CHANGE_TABLE"] = 

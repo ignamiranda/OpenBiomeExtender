@@ -6,12 +6,12 @@ DENSITY_MULTIPLIER = 0.25
 
 NMS_MOD_DEFINITION_CONTAINER = 
 {
-  ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-GlowShroomsInRadioactiveBiomes.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_DESCRIPTION"]		= "Adds a chance for medium sized glowing mushrooms in Radioactive biomes",         --optional, for reference
-  ["MOD_AUTHOR"]				= "",         --optional, for reference
-  ["NMS_VERSION"]				= "2.0",     --optional, for reference
-  ["MODIFICATIONS"] 		=             --REQUIRED SECTION
+  ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-GlowShroomsInRadioactiveBiomes.pak",
+  ["MOD_DESCRIPTION"]		= "Adds a chance for medium sized glowing mushrooms in Radioactive biomes",
+  ["MOD_AUTHOR"]				= "CodenameAwesome",
+  ["NMS_VERSION"]				= "3.13",
+  ["MODIFICATIONS"] 		= 
 	{
 		{
 			["MBIN_CHANGE_TABLE"] = 

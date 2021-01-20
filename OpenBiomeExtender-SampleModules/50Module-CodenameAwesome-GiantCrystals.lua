@@ -10,12 +10,12 @@ DENSITY_MULTIPLIER = 1/((MIN_SCALE_MULTIPLIER+MAX_SCALE_MULTIPLIER)/2)
 
 NMS_MOD_DEFINITION_CONTAINER = 
 {
-  ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-GiantCrystals.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_DESCRIPTION"]		= "Adds the chance for planets with bigger resource crystals to spawn, while still allowing some planets to have normal sized crystals",         --optional, for reference
-  ["MOD_AUTHOR"]				= "",         --optional, for reference
-  ["NMS_VERSION"]				= "2.0",     --optional, for reference
-  ["MODIFICATIONS"] 		=             --REQUIRED SECTION
+  ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-GiantCrystals.pak",
+  ["MOD_DESCRIPTION"]		= "Adds the chance for planets with bigger resource crystals to spawn, while still allowing some planets to have normal sized crystals",
+  ["MOD_AUTHOR"]				= "CodenameAwesome",
+  ["NMS_VERSION"]				= "3.13",
+  ["MODIFICATIONS"] 		= 
 	{
 		{
 			["MBIN_CHANGE_TABLE"] = 
