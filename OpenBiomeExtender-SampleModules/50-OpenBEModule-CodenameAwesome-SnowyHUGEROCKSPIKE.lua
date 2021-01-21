@@ -46,9 +46,6 @@ NMS_MOD_DEFINITION_CONTAINER =
 						{
 							["SPECIAL_KEY_WORDS"] = {"Name","DISTANTOBJECTS"},
 							["PRECEDING_KEY_WORDS"] = {"Options"},
-							["VALUE_CHANGE_TABLE"] = {--Set probability to 100% for testing
-								{"Probability",	1}--test
-							},--test
 							["ADD"] =
 [[        <Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DISTANTOBJECTS/FROZEN/FROZENHUGEROCKOBJECTSFULL.MBIN" />
