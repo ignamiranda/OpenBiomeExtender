@@ -603,24 +603,26 @@ NMS_MOD_DEFINITION_CONTAINER =
 					{
 						{
 							["SPECIAL_KEY_WORDS"] = {"Filename","MODELS/PLANETS/BIOMES/COMMON/BUILDINGS/PARTS/BUILDABLEPARTS/FOLIAGE/BEAMSTONE.SCENE.MBIN"},
+							["SECTION_UP"] = 1,
 							["REPLACE_TYPE"] = "ALL",
 							["REMOVE"] = "SECTION",
 						}
 					}
 				},
-				--[[{--Remove the Hexagon trees that clip through the terrain
+				{--Remove the Hexagon trees that clip through the terrain
 					["MBIN_FILE_SOURCE"] 	= {
 						"OPENBE/OBJECTFILES/CODENAMEAWESOME/OBJECTS/CAVE/HEXAGONOBJECTSDEAD.MBIN",
 					},
 					["EXML_CHANGE_TABLE"] =
 					{
 						{
-							["SPECIAL_KEY_WORDS"] = {"Filename","MODELS/PLANETS/BIOMES/COMMON/BUILDINGS/PARTS/BUILDABLEPARTS/FOLIAGE/BEAMSTONE.SCENE.MBIN"},
+							["SPECIAL_KEY_WORDS"] = {"Filename","MODELS/PLANETS/BIOMES/COMMON/BUILDINGS/PARTS/BUILDABLEPARTS/FOLIAGE/MEDGEOMETRIC.SCENE.MBIN"},
+							["SECTION_UP"] = 1,
 							["REPLACE_TYPE"] = "ALL",
 							["REMOVE"] = "SECTION",
 						}
 					}
-				},]]
+				},
 				{--Add these files to the game
 					["MBIN_FILE_SOURCE"] = "METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BIOMEFILENAMES.MBIN",
 					["EXML_CHANGE_TABLE"] =
