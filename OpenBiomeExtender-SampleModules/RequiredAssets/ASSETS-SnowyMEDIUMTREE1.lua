@@ -1,7 +1,3 @@
---DO NOT USE "REMOVE" TAGS WHEN COPYING FILES
---This script is intended for use with OpenBiomeExtender and will not work without it.
---Place the OpenBiomeExtender.pak into your ModScript folder when you run this script
-
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzCodenameAwesome-Assets.pak",     --the name of the pak created (if not combined) - REQUIRED
