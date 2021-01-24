@@ -1,11 +1,11 @@
 NMS_MOD_DEFINITION_CONTAINER = 
 {
-  ["MOD_BATCHNAME"] 			= "zzCodenameAwesome-Assets.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-Assets-SnowyHQTREEREF.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_DESCRIPTION"]		= "Copies the HQTREES model and swaps the materials for ones from the Frozen trees.",         --optional, for reference
-  ["MOD_AUTHOR"]				= "",         --optional, for reference
-  ["NMS_VERSION"]				= "2.0",     --optional, for reference
-  ["MODIFICATIONS"] 		=             --REQUIRED SECTION
+  ["MOD_BATCHNAME"] 			= "zzCodenameAwesome-Assets.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-Assets-SnowyHQTREEREF.pak",
+  ["MOD_DESCRIPTION"]		= "Copies the HQTREES model and swaps the materials for ones from the Frozen trees.",
+  ["MOD_AUTHOR"]				= "",
+  ["NMS_VERSION"]				= "3.13",
+  ["MODIFICATIONS"] 		=
 	{
 		{
 			["MBIN_CHANGE_TABLE"] =  {
