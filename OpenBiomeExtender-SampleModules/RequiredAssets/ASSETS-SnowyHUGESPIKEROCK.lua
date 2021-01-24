@@ -1,11 +1,11 @@
 NMS_MOD_DEFINITION_CONTAINER = 
 {
-  ["MOD_BATCHNAME"] 			= "zzCodenameAwesome-Assets.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-Assets-SnowyHUGESPIKEROCK.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_DESCRIPTION"]		= "The props from the HugeRocks biome with their texture swapped out for an icy one.",         --optional, for reference
-  ["MOD_AUTHOR"]				= "",         --optional, for reference
-  ["NMS_VERSION"]				= "2.0",     --optional, for reference
-  ["MODIFICATIONS"] 		=             --REQUIRED SECTION
+  ["MOD_BATCHNAME"] 			= "zzCodenameAwesome-Assets.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-Assets-SnowyHUGESPIKEROCK.pak",
+  ["MOD_DESCRIPTION"]		= "The props from the HugeRocks biome with their texture swapped out for an icy one.",
+  ["MOD_AUTHOR"]				= "",
+  ["NMS_VERSION"]				= "3.13",
+  ["MODIFICATIONS"] 		=
 	{
 		{
 			["MBIN_CHANGE_TABLE"] =  {
