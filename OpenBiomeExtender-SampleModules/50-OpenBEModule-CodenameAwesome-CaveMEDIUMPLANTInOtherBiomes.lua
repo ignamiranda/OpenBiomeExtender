@@ -6,7 +6,7 @@ NMS_MOD_DEFINITION_CONTAINER =
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
   ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-CaveMEDIUMPLANTInOtherBiomes.pak",
-  ["MOD_DESCRIPTION"]		= "Adds those big cave mushrooms to all biomes that have MEDIUMPLANTs",
+  ["MOD_DESCRIPTION"]		= "Adds cave MEDIUMPLANTs to all biomes that have MEDIUMPLANTs",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",
   ["MODIFICATIONS"] 		= 
@@ -262,43 +262,6 @@ NMS_MOD_DEFINITION_CONTAINER =
 							["PRECEDING_KEY_WORDS"] = {"Options"},
 							["ADD"] = [[        <Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/HUGEPROPS/HUGESCORCHED/CAVEMEDIUMPLANTHUGESCORCHOBJECTSFULL.MBIN" />
-        </Property>]]
-						},
-					}
-				},
-				{--TOXIC and HUGETOXIC
-					["MBIN_FILE_SOURCE"] = {
-						"OPENBE/BIOMEFILES/TOXIC/TOXICBIOME.MBIN",
-						"OPENBE/BIOMEFILES/HUGEPROPS/HUGETOXIC/HUGETOXICBIOME.MBIN",
-					},
-					["EXML_CHANGE_TABLE"] = {
-						{
-							["SPECIAL_KEY_WORDS"] = {"Name","OBJECTS"},
-							["PRECEDING_KEY_WORDS"] = {"Options"},
-							["ADD"] = [[        <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/OBJECTS/TOXIC/CAVEMEDIUMPLANTTOXICOBJECTSDEAD.MBIN" />
-        </Property>
-        <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/OBJECTS/TOXIC/CAVEMEDIUMPLANTTOXICOBJECTSFULL.MBIN" />
-        </Property>
-        <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/OBJECTS/TOXIC/CAVEMEDIUMPLANTTOXICOBJECTSLOW.MBIN" />
-        </Property>
-        <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/OBJECTS/TOXIC/CAVEMEDIUMPLANTTOXICOBJECTSMID.MBIN" />
-        </Property>]]
-						},
-						{
-							["SPECIAL_KEY_WORDS"] = {"Name","DETAILOBJECTS"},
-							["PRECEDING_KEY_WORDS"] = {"Options"},
-							["ADD"] = [[        <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/HUGEPROPS/HUGETOXIC/CAVEMEDIUMPLANTHUGETOXICOBJECTSFULL.MBIN" />
-        </Property>
-        <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/TOXIC/CAVEMEDIUMPLANTTOXICBIGPROPSOBJECTSFULL.MBIN" />
-        </Property>
-        <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/TOXIC/CAVEMEDIUMPLANTTOXICOBJECTSFULL.MBIN" />
         </Property>]]
 						},
 					}
