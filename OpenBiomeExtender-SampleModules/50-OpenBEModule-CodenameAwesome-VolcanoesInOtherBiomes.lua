@@ -2,7 +2,7 @@
 --This script is intended for use with OpenBiomeExtender and will not work without it.
 --Place the OpenBiomeExtender.pak into your ModScript folder when you run this script
 
-DENSITY_MULTIPLIER = 0.25
+DENSITY_MULTIPLIER = 0.5
 
 NMS_MOD_DEFINITION_CONTAINER = 
 {
