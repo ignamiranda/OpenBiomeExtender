@@ -2,6 +2,8 @@
 --This script is intended for use with OpenBiomeExtender and will not work without it.
 --Place the OpenBiomeExtender.pak into your ModScript folder when you run this script
 
+SCALE_MULTIPLIER = 0.75
+
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
@@ -73,6 +75,16 @@ NMS_MOD_DEFINITION_CONTAINER =
 					["EXML_CHANGE_TABLE"] = {
 						{
 							["REPLACE_TYPE"] = "ALL", 
+							["SPECIAL_KEY_WORDS"] = {"Filename","MODELS/PLANETS/BIOMES/COMMON/PLANTS/MEDIUMPLANT.SCENE.MBIN"},
+							["SECTION_UP"] = 1,
+							["MATH_OPERATION"] = "*",
+							["VALUE_CHANGE_TABLE"] = {
+								{"MinScale",SCALE_MULTIPLIER},
+								{"MaxScale",SCALE_MULTIPLIER},
+							},
+						},
+						{
+							["REPLACE_TYPE"] = "ALL", 
 							["VALUE_MATCH"] = "MODELS/PLANETS/BIOMES/COMMON/PLANTS/MEDIUMPLANT.SCENE.MBIN",
 							["VALUE_CHANGE_TABLE"] = {
 								{"Filename","MODELS/PLANETS/BIOMES/CAVE/MEDIUMPROP/MEDIUMPLANT.SCENE.MBIN"}
@@ -94,6 +106,16 @@ NMS_MOD_DEFINITION_CONTAINER =
 					["EXML_CHANGE_TABLE"] = {
 						{
 							["REPLACE_TYPE"] = "ALL", 
+							["SPECIAL_KEY_WORDS"] = {"Filename","MODELS/PLANETS/BIOMES/FROZEN/MEDIUMPROPS/MEDIUMPLANT.SCENE.MBIN"},
+							["SECTION_UP"] = 1,
+							["MATH_OPERATION"] = "*",
+							["VALUE_CHANGE_TABLE"] = {
+								{"MinScale",SCALE_MULTIPLIER},
+								{"MaxScale",SCALE_MULTIPLIER},
+							},
+						},
+						{
+							["REPLACE_TYPE"] = "ALL", 
 							["VALUE_MATCH"] = "MODELS/PLANETS/BIOMES/FROZEN/MEDIUMPROPS/MEDIUMPLANT.SCENE.MBIN",
 							["VALUE_CHANGE_TABLE"] = {
 								{"Filename","MODELS/PLANETS/BIOMES/CAVE/MEDIUMPROP/MEDIUMPLANT.SCENE.MBIN"}
@@ -107,6 +129,16 @@ NMS_MOD_DEFINITION_CONTAINER =
 						"OPENBE/OBJECTFILES/CODENAMEAWESOME/OBJECTS/RADIOACTIVE/CAVEMEDIUMPLANTRADIOACTIVEALIENOBJECTS.MBIN",
 					},
 					["EXML_CHANGE_TABLE"] = {
+						{
+							["REPLACE_TYPE"] = "ALL", 
+							["SPECIAL_KEY_WORDS"] = {"Filename","MODELS/PLANETS/BIOMES/LIVINGSHIP/MEDIUM/MEDIUMPLANT.SCENE.MBIN"},
+							["SECTION_UP"] = 1,
+							["MATH_OPERATION"] = "*",
+							["VALUE_CHANGE_TABLE"] = {
+								{"MinScale",SCALE_MULTIPLIER},
+								{"MaxScale",SCALE_MULTIPLIER},
+							},
+						},
 						{
 							["REPLACE_TYPE"] = "ALL", 
 							["VALUE_MATCH"] = "MODELS/PLANETS/BIOMES/LIVINGSHIP/MEDIUM/MEDIUMPLANT.SCENE.MBIN",
@@ -127,6 +159,16 @@ NMS_MOD_DEFINITION_CONTAINER =
 						"OPENBE/OBJECTFILES/CODENAMEAWESOME/OBJECTS/TOXIC/CAVEMEDIUMPLANTTOXICOBJECTSMID.MBIN",
 					},
 					["EXML_CHANGE_TABLE"] = {
+						{
+							["REPLACE_TYPE"] = "ALL", 
+							["SPECIAL_KEY_WORDS"] = {"Filename","MODELS/PLANETS/BIOMES/TOXIC/MEDIUM/MEDIUMPLANT.SCENE.MBIN"},
+							["SECTION_UP"] = 1,
+							["MATH_OPERATION"] = "*",
+							["VALUE_CHANGE_TABLE"] = {
+								{"MinScale",SCALE_MULTIPLIER},
+								{"MaxScale",SCALE_MULTIPLIER},
+							},
+						},
 						{
 							["REPLACE_TYPE"] = "ALL", 
 							["VALUE_MATCH"] = "MODELS/PLANETS/BIOMES/TOXIC/MEDIUM/MEDIUMPLANT.SCENE.MBIN",
