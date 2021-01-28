@@ -1,6 +1,3 @@
-NMS_UNPACKED_DIR = "D:/NMSUnpackedNEXTGEN/" --Make sure you have the slash at the end. You need to have your game unpacked and listed here for this script to work.
---Currently filepaths are kinda messed up in AMUMSS at the moment. If you have issues. Try putting your unpacked files into your ModScript folder and changing this to a relative filepath.
-
 LOD_MULTIPLIER = 3
 
 ENTITY_ATTRIBUTE = [[	<Property value="TkSceneNodeAttributeData.xml">
