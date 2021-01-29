@@ -7,7 +7,7 @@ SCALE_MULTIPLIER = 2
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-SKINNEDTREES.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-SKINNEDTREES.pak",
   ["MOD_DESCRIPTION"]		= "Adds a chance for the unused SKINNEDTREES models to spawn.",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

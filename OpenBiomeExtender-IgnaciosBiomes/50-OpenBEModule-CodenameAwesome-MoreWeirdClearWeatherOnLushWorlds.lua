@@ -5,7 +5,7 @@
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-MoreClearWeatherOnLushWorlds.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-MoreClearWeatherOnLushWorlds.pak",
   ["MOD_DESCRIPTION"]		= "Creates a copy of low density object lists and adds Beamstone objects for the Beamstone biome",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

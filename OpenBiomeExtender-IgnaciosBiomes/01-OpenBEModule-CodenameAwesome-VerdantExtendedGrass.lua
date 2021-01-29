@@ -127,7 +127,7 @@ end
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-VerdantExtendedGrass.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-VerdantExtendedGrass.pak",
   ["MOD_DESCRIPTION"]		= "Adds Barren objects to the Scorched biome and vice versa, while preserving the overall theme and uniqueness of the original biomes.",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

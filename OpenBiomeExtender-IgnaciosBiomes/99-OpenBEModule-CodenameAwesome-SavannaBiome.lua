@@ -277,7 +277,7 @@ LUSHLOW_TREE = [[      <Property value="GcObjectSpawnData.xml">
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-SavannaBiome.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-SavannaBiome.pak",
   ["MOD_DESCRIPTION"]		= "Duplicates the Barren biome and adds grass/etc to create the Savanna biome",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

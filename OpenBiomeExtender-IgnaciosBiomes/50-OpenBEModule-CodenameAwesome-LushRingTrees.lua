@@ -7,7 +7,7 @@ SCALE_MULTIPLIER = 2
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-HUGERINGTREE.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-HUGERINGTREE.pak",
   ["MOD_DESCRIPTION"]		= "Adds a chance for the HUGERINGTREE models to spawn.",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

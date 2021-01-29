@@ -5,7 +5,7 @@
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-ToxicRadioactiveBlend.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-ToxicRadioactiveBlend.pak",
   ["MOD_DESCRIPTION"]		= "Adds Toxic objects to the Radioactive biome and vice versa, while preserving the overall theme and uniqueness of the original biomes.",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

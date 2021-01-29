@@ -7,7 +7,7 @@ SCALE_MULTIPLIER = 2
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-SNOWYMEDIUMTREE1.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-SNOWYMEDIUMTREE1.pak",
   ["MOD_DESCRIPTION"]		= "Adds a snowy version of MEDIUMTREE1 (the pre-NEXT tree model).",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

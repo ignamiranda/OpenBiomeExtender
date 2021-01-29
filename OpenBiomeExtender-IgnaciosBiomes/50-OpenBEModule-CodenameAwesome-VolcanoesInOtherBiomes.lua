@@ -7,7 +7,7 @@ DENSITY_MULTIPLIER = 0.5
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-VolcanoesInOtherBiomes.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-VolcanoesInOtherBiomes.pak",
   ["MOD_DESCRIPTION"]		= "Adds a chance for volcanoes to spawn in all biomes, although at a lower density than in the Lava biome.",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

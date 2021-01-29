@@ -1,6 +1,6 @@
 NMS_MOD_DEFINITION_CONTAINER = 
 {
-  --["MOD_FILENAME"] 			= "zzCodenameAwesome-VerdantExtendedGrassDistance.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-VerdantExtendedGrassDistance.pak",
   ["MOD_DESCRIPTION"]		= "Adds multiple grass layers of varirying densities to increase grass render distance",
   ["MOD_AUTHOR"]				= "CodenameAwesome", 
   ["NMS_VERSION"]				= "",

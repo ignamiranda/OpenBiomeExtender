@@ -5,7 +5,7 @@
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-BigSwampTreesInOtherBiomes.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-BigSwampTreesInOtherBiomes.pak",
   ["MOD_DESCRIPTION"]		= "Adds a chance for Swamp mushrooms in other biomes",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

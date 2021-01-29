@@ -5,7 +5,7 @@
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-CaveLARGEFUNGHIInOtherBiomes.pak",
+  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-CaveLARGEFUNGHIInOtherBiomes.pak",
   ["MOD_DESCRIPTION"]		= "Adds cave LARGEFUNGHI to all biomes that have LARGEPLANTs",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",
