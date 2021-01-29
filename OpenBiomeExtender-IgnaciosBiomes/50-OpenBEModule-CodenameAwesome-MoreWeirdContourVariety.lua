@@ -582,7 +582,7 @@ CONTOUR_OBJECTS = [[      <Property value="GcObjectSpawnData.xml">
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-VariedContour.pak",
+  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-VariedContour.pak",
   ["MOD_DESCRIPTION"]		= "Creates a copy of all low density object lists and adds Contour objects for the Contour biome",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

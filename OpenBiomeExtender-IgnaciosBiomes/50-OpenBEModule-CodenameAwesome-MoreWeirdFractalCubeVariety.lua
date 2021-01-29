@@ -294,7 +294,7 @@ FRACT_OBJECTS = [[      <Property value="GcObjectSpawnData.xml">
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-VariedFractCube.pak",
+  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-VariedFractCube.pak",
   ["MOD_DESCRIPTION"]		= "Creates a copy of low density object lists and adds FractCube objects for the FractCube biome",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

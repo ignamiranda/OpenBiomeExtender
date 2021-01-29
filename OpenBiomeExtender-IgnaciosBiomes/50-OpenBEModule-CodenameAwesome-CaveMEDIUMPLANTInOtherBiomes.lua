@@ -7,7 +7,7 @@ SCALE_MULTIPLIER = 0.75
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-CaveMEDIUMPLANTInOtherBiomes.pak",
+  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-CaveMEDIUMPLANTInOtherBiomes.pak",
   ["MOD_DESCRIPTION"]		= "Adds cave MEDIUMPLANTs to all biomes that have MEDIUMPLANTs",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

@@ -5,7 +5,7 @@
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-MountainBiomes.pak",
+  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-MountainBiomes.pak",
   ["MOD_DESCRIPTION"]		= "Adds cave object lists that look like overworld biomes (but with stalagmites and cave glow plants)",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

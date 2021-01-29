@@ -7,7 +7,7 @@ DENSITY_MULTIPLIER = 0.25
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-LushGrassInOtherBiomes.pak",
+  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-LushGrassInOtherBiomes.pak",
   ["MOD_DESCRIPTION"]		= "Adds a chance for grass to spawn in biomes that would otherwise would have them. The Radioactive biome especially makes sense for this since the warped trees imply it was once a Lush world.",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

@@ -7,7 +7,7 @@ OBJECTS_DISTANCE_MULTIPLIER = 3
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-IncreasedCrystalsRenderDistance.pak",
+  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-IncreasedCrystalsRenderDistance.pak",
   ["MOD_DESCRIPTION"]		= "Adds the chance for planets with bigger resource crystals to spawn, while still allowing some planets to have normal sized crystals",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

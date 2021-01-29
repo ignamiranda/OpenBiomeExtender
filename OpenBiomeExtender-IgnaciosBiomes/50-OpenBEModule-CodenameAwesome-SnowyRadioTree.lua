@@ -8,7 +8,7 @@ SCALE_MULTIPLIER = 2
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-SnowyRadioTrees.pak",
+  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-SnowyRadioTrees.pak",
   ["MOD_DESCRIPTION"]		= "Adds a chance for snowy radioactive trees to spawn in the Frozen biome.",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

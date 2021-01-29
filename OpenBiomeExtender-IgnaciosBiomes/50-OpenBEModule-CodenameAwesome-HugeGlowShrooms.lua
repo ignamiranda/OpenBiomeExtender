@@ -8,7 +8,7 @@ DENSITY_MULTIPLIER = 1/10
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-HugeGlowShrooms.pak",
+  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-HugeGlowShrooms.pak",
   ["MOD_DESCRIPTION"]		= "Converts the LushRoom landmarks into massive DistantObjects",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

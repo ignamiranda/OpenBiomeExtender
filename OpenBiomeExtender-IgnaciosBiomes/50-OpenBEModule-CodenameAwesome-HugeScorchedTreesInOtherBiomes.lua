@@ -5,7 +5,7 @@
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-HugeScorchedTreesInOtherBiomes.pak",
+  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-HugeScorchedTreesInOtherBiomes.pak",
   ["MOD_DESCRIPTION"]		= "Adds the DistantObjects of the HUGESCORCHBIOME to more biomes.",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",

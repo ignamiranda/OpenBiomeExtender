@@ -7,7 +7,7 @@ SCALE_MULTIPLIER = 1.5
 NMS_MOD_DEFINITION_CONTAINER = 
 {
   ["MOD_BATCHNAME"] 			= "zzOpenBiomeExtender-MergedModules.pak",
-  ["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-LARGETREE1.pak",
+  --["MOD_FILENAME"] 			= "zzCodenameAwesome-OpenBE-LARGETREE1.pak",
   ["MOD_DESCRIPTION"]		= "Adds a chance for the original pre-NEXT tree models to spawn.",
   ["MOD_AUTHOR"]				= "CodenameAwesome",
   ["NMS_VERSION"]				= "3.13",
