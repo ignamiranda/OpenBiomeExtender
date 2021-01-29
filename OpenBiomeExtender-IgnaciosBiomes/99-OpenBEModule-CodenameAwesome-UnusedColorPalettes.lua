@@ -15,6 +15,37 @@ NMS_MOD_DEFINITION_CONTAINER =
 		{
 			["MBIN_CHANGE_TABLE"] = 
 			{ 
+				{--Fix the color palettes
+					["MBIN_FILE_SOURCE"] = {
+						"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/LUSH/LUSHHQCOLOURPALETTE.MBIN",
+						"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BARREN/BARRENHQCOLOURPALETTES.MBIN",
+						"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/FROZEN/FROZENHQCOLOURPALETTES.MBIN",
+					},
+					["EXML_CHANGE_TABLE"] =
+					{
+						{
+							["PRECEDING_KEY_WORDS"] = {"RockSaturated"},
+							["VALUE_CHANGE_TABLE"] 	=
+							{
+								{"NumColours",	"Inactive"},
+							}
+						},
+						{
+							["PRECEDING_KEY_WORDS"] = {"RockSaturated"},
+							["VALUE_CHANGE_TABLE"] 	=
+							{
+								{"NumColours",	"Inactive"},
+							}
+						},
+						{
+							["PRECEDING_KEY_WORDS"] = {"Sand"},
+							["VALUE_CHANGE_TABLE"] 	=
+							{
+								{"NumColours",	"Inactive"},
+							}
+						},
+					}
+				},
 				{
 					["MBIN_FILE_SOURCE"] = {
 						"METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BIOMEFILENAMES.MBIN",
