@@ -722,6 +722,222 @@ INFESTED_OBJECTS = [[      <Property value="GcObjectSpawnData.xml">
         <Property name="ShearWindStrength" value="0" />
         <Property name="DestroyedByVehicleEffect" value="VEHICLECRASH" />
       </Property>]]
+INFESTED_DETAILS = [[      <Property value="GcObjectSpawnData.xml">
+        <Property name="DebugName" value="" />
+        <Property name="Type" value="Instanced" />
+        <Property name="Resource" value="GcResourceElement.xml">
+          <Property name="Filename" value="MODELS/PLANETS/BIOMES/LIVINGSHIP/SMALL/SMALLTENDRIL.SCENE.MBIN" />
+          <Property name="Seed" value="GcSeed.xml">
+            <Property name="Seed" value="0" />
+            <Property name="UseSeedValue" value="False" />
+          </Property>
+          <Property name="AltId" value="" />
+          <Property name="ProceduralTexture" value="TkProceduralTextureChosenOptionList.xml">
+            <Property name="Samplers" />
+          </Property>
+        </Property>
+        <Property name="AltResources" />
+        <Property name="ExtraTileTypes" />
+        <Property name="Placement" value="FLORACLUMP" />
+        <Property name="PlacementSeed" value="GcSeed.xml">
+          <Property name="Seed" value="0" />
+          <Property name="UseSeedValue" value="False" />
+        </Property>
+        <Property name="PlacementPriority" value="Normal" />
+        <Property name="Coverage" value="0.3" />
+        <Property name="FlatDensity" value="0.03" />
+        <Property name="SlopeDensity" value="0.02" />
+        <Property name="SlopeMultiplier" value="1" />
+        <Property name="LargeObjectCoverage" value="DoNotPlaceClose" />
+        <Property name="OverlapStyle" value="SameSeed" />
+        <Property name="MinHeight" value="-1" />
+        <Property name="MaxHeight" value="128" />
+        <Property name="RelativeToSeaLevel" value="True" />
+        <Property name="MinAngle" value="0" />
+        <Property name="MaxAngle" value="30" />
+        <Property name="MinRegionRadius" value="0" />
+        <Property name="MaxRegionRadius" value="10" />
+        <Property name="MaxImposterRadius" value="10" />
+        <Property name="FadeInStartDistance" value="80" />
+        <Property name="FadeInEndDistance" value="70" />
+        <Property name="FadeInOffsetDistance" value="10" />
+        <Property name="FadeOutStartDistance" value="9999" />
+        <Property name="FadeOutEndDistance" value="9999" />
+        <Property name="FadeOutOffsetDistance" value="0" />
+        <Property name="LodDistances">
+          <Property value="0" />
+          <Property value="15" />
+          <Property value="35" />
+          <Property value="45" />
+          <Property value="500" />
+        </Property>
+        <Property name="MatchGroundColour" value="False" />
+        <Property name="GroundColourIndex" value="Auto" />
+        <Property name="SwapPrimaryForSecondaryColour" value="False" />
+        <Property name="SwapPrimaryForRandomColour" value="False" />
+        <Property name="AlignToNormal" value="True" />
+        <Property name="MinScale" value="1" />
+        <Property name="MaxScale" value="2" />
+        <Property name="MinScaleY" value="0.8" />
+        <Property name="MaxScaleY" value="1.25" />
+        <Property name="SlopeScaling" value="1" />
+        <Property name="PatchEdgeScaling" value="0.5" />
+        <Property name="MaxXZRotation" value="10" />
+        <Property name="AutoCollision" value="False" />
+        <Property name="CollideWithPlayer" value="False" />
+        <Property name="CollideWithPlayerVehicle" value="False" />
+        <Property name="DestroyedByPlayerVehicle" value="True" />
+        <Property name="DestroyedByPlayerShip" value="True" />
+        <Property name="DestroyedByTerrainEdit" value="True" />
+        <Property name="InvisibleToCamera" value="True" />
+        <Property name="CreaturesCanEat" value="False" />
+        <Property name="ShearWindStrength" value="0" />
+        <Property name="DestroyedByVehicleEffect" value="VEHICLECRASH" />
+      </Property>
+      <Property value="GcObjectSpawnData.xml">
+        <Property name="DebugName" value="" />
+        <Property name="Type" value="Instanced" />
+        <Property name="Resource" value="GcResourceElement.xml">
+          <Property name="Filename" value="MODELS/PLANETS/BIOMES/LIVINGSHIP/SMALL/SMALLTENDRIL.SCENE.MBIN" />
+          <Property name="Seed" value="GcSeed.xml">
+            <Property name="Seed" value="0" />
+            <Property name="UseSeedValue" value="False" />
+          </Property>
+          <Property name="AltId" value="" />
+          <Property name="ProceduralTexture" value="TkProceduralTextureChosenOptionList.xml">
+            <Property name="Samplers" />
+          </Property>
+        </Property>
+        <Property name="AltResources" />
+        <Property name="ExtraTileTypes" />
+        <Property name="Placement" value="SMALLCLUMP" />
+        <Property name="PlacementSeed" value="GcSeed.xml">
+          <Property name="Seed" value="0" />
+          <Property name="UseSeedValue" value="False" />
+        </Property>
+        <Property name="PlacementPriority" value="Normal" />
+        <Property name="Coverage" value="0.2" />
+        <Property name="FlatDensity" value="0.03" />
+        <Property name="SlopeDensity" value="0.02" />
+        <Property name="SlopeMultiplier" value="1" />
+        <Property name="LargeObjectCoverage" value="DoNotPlaceClose" />
+        <Property name="OverlapStyle" value="SameSeed" />
+        <Property name="MinHeight" value="-1" />
+        <Property name="MaxHeight" value="128" />
+        <Property name="RelativeToSeaLevel" value="True" />
+        <Property name="MinAngle" value="0" />
+        <Property name="MaxAngle" value="45" />
+        <Property name="MinRegionRadius" value="0" />
+        <Property name="MaxRegionRadius" value="10" />
+        <Property name="MaxImposterRadius" value="10" />
+        <Property name="FadeInStartDistance" value="80" />
+        <Property name="FadeInEndDistance" value="70" />
+        <Property name="FadeInOffsetDistance" value="10" />
+        <Property name="FadeOutStartDistance" value="9999" />
+        <Property name="FadeOutEndDistance" value="9999" />
+        <Property name="FadeOutOffsetDistance" value="0" />
+        <Property name="LodDistances">
+          <Property value="0" />
+          <Property value="15" />
+          <Property value="35" />
+          <Property value="45" />
+          <Property value="500" />
+        </Property>
+        <Property name="MatchGroundColour" value="False" />
+        <Property name="GroundColourIndex" value="Auto" />
+        <Property name="SwapPrimaryForSecondaryColour" value="False" />
+        <Property name="SwapPrimaryForRandomColour" value="False" />
+        <Property name="AlignToNormal" value="True" />
+        <Property name="MinScale" value="1.5" />
+        <Property name="MaxScale" value="3" />
+        <Property name="MinScaleY" value="0.8" />
+        <Property name="MaxScaleY" value="1.25" />
+        <Property name="SlopeScaling" value="1" />
+        <Property name="PatchEdgeScaling" value="0.5" />
+        <Property name="MaxXZRotation" value="10" />
+        <Property name="AutoCollision" value="False" />
+        <Property name="CollideWithPlayer" value="False" />
+        <Property name="CollideWithPlayerVehicle" value="False" />
+        <Property name="DestroyedByPlayerVehicle" value="True" />
+        <Property name="DestroyedByPlayerShip" value="True" />
+        <Property name="DestroyedByTerrainEdit" value="True" />
+        <Property name="InvisibleToCamera" value="True" />
+        <Property name="CreaturesCanEat" value="False" />
+        <Property name="ShearWindStrength" value="0" />
+        <Property name="DestroyedByVehicleEffect" value="VEHICLECRASH" />
+      </Property>
+      <Property value="GcObjectSpawnData.xml">
+        <Property name="DebugName" value="" />
+        <Property name="Type" value="Instanced" />
+        <Property name="Resource" value="GcResourceElement.xml">
+          <Property name="Filename" value="MODELS/PLANETS/BIOMES/LIVINGSHIP/SMALL/SMALLTENDRIL.SCENE.MBIN" />
+          <Property name="Seed" value="GcSeed.xml">
+            <Property name="Seed" value="0" />
+            <Property name="UseSeedValue" value="False" />
+          </Property>
+          <Property name="AltId" value="" />
+          <Property name="ProceduralTexture" value="TkProceduralTextureChosenOptionList.xml">
+            <Property name="Samplers" />
+          </Property>
+        </Property>
+        <Property name="AltResources" />
+        <Property name="ExtraTileTypes" />
+        <Property name="Placement" value="JAMESPATCH" />
+        <Property name="PlacementSeed" value="GcSeed.xml">
+          <Property name="Seed" value="0" />
+          <Property name="UseSeedValue" value="False" />
+        </Property>
+        <Property name="PlacementPriority" value="Normal" />
+        <Property name="Coverage" value="0.3" />
+        <Property name="FlatDensity" value="0.01" />
+        <Property name="SlopeDensity" value="0.01" />
+        <Property name="SlopeMultiplier" value="1" />
+        <Property name="LargeObjectCoverage" value="DoNotPlaceClose" />
+        <Property name="OverlapStyle" value="SameSeed" />
+        <Property name="MinHeight" value="-1" />
+        <Property name="MaxHeight" value="128" />
+        <Property name="RelativeToSeaLevel" value="True" />
+        <Property name="MinAngle" value="0" />
+        <Property name="MaxAngle" value="45" />
+        <Property name="MinRegionRadius" value="0" />
+        <Property name="MaxRegionRadius" value="10" />
+        <Property name="MaxImposterRadius" value="10" />
+        <Property name="FadeInStartDistance" value="80" />
+        <Property name="FadeInEndDistance" value="70" />
+        <Property name="FadeInOffsetDistance" value="10" />
+        <Property name="FadeOutStartDistance" value="9999" />
+        <Property name="FadeOutEndDistance" value="9999" />
+        <Property name="FadeOutOffsetDistance" value="0" />
+        <Property name="LodDistances">
+          <Property value="0" />
+          <Property value="15" />
+          <Property value="35" />
+          <Property value="45" />
+          <Property value="500" />
+        </Property>
+        <Property name="MatchGroundColour" value="False" />
+        <Property name="GroundColourIndex" value="Auto" />
+        <Property name="SwapPrimaryForSecondaryColour" value="False" />
+        <Property name="SwapPrimaryForRandomColour" value="False" />
+        <Property name="AlignToNormal" value="True" />
+        <Property name="MinScale" value="0.3" />
+        <Property name="MaxScale" value="1.8" />
+        <Property name="MinScaleY" value="0.8" />
+        <Property name="MaxScaleY" value="1.25" />
+        <Property name="SlopeScaling" value="1" />
+        <Property name="PatchEdgeScaling" value="0.5" />
+        <Property name="MaxXZRotation" value="10" />
+        <Property name="AutoCollision" value="False" />
+        <Property name="CollideWithPlayer" value="True" />
+        <Property name="CollideWithPlayerVehicle" value="False" />
+        <Property name="DestroyedByPlayerVehicle" value="True" />
+        <Property name="DestroyedByPlayerShip" value="True" />
+        <Property name="DestroyedByTerrainEdit" value="True" />
+        <Property name="InvisibleToCamera" value="True" />
+        <Property name="CreaturesCanEat" value="False" />
+        <Property name="ShearWindStrength" value="0" />
+        <Property name="DestroyedByVehicleEffect" value="VEHICLECRASH" />
+      </Property>]]
 
 NMS_MOD_DEFINITION_CONTAINER = 
 {
@@ -772,6 +988,19 @@ NMS_MOD_DEFINITION_CONTAINER =
 						{"OPENBE/OBJECTFILES/VANILLA/OBJECTS/LUSH/LUSHROCKYWEIRDOBJECTS.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/OBJECTS/LUSH/LUSHINFESTEDROCKYWEIRDOBJECTS.MBIN"},
 						{"OPENBE/OBJECTFILES/VANILLA/OBJECTS/LUSH/LUSHROOMAOBJECTS.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/OBJECTS/LUSH/LUSHINFESTEDROOMAOBJECTS.MBIN"},
 						{"OPENBE/OBJECTFILES/VANILLA/OBJECTS/LUSH/LUSHROOMBOBJECTS.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/OBJECTS/LUSH/LUSHINFESTEDROOMBOBJECTS.MBIN"},
+						{"OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHBIGPROPSOBJECTSFULL.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDBIGPROPSOBJECTSFULL.MBIN"},
+						{"OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHBUBBLEOBJECTS.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDBUBBLEOBJECTS.MBIN"},
+						{"OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHHQOBJECTSFULL.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDHQOBJECTSFULL.MBIN"},
+						{"OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHHQTENTACLEOBJECTSFULL.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDHQTENTACLEOBJECTSFULL.MBIN"},
+						{"OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHINFESTEDOBJECTS.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDINFESTEDOBJECTS.MBIN"},
+						{"OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHOBJECTSDEAD.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDOBJECTSDEAD.MBIN"},
+						{"OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHOBJECTSFULL.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDOBJECTSFULL.MBIN"},
+						{"OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHOBJECTSLOW.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDOBJECTSLOW.MBIN"},
+						{"OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHOBJECTSMID.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDOBJECTSMID.MBIN"},
+						{"OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHROCKYOBJECTS.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDROCKYOBJECTS.MBIN"},
+						{"OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHROCKYWEIRDOBJECTS.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDROCKYWEIRDOBJECTS.MBIN"},
+						{"OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHROOMAOBJECTS.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDROOMAOBJECTS.MBIN"},
+						{"OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHROOMBOBJECTS.MBIN","OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDROOMBOBJECTS.MBIN"},
 					},
 				},
 				{--Add the BoneSpire-specific objects to Landmarks
@@ -830,6 +1059,28 @@ NMS_MOD_DEFINITION_CONTAINER =
 								{"FlatDensity",OBJECTS_DENSITY_MULTIPLIER},
 								{"SlopeDensity",OBJECTS_DENSITY_MULTIPLIER},
 							}
+						},
+					}
+				},
+				{--Add the BoneSpire-specific objects to DetailObjects
+					["MBIN_FILE_SOURCE"] 	= {
+						"OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDBIGPROPSOBJECTSFULL.MBIN",
+						"OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDBUBBLEOBJECTS.MBIN",
+						"OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDHQOBJECTSFULL.MBIN",
+						"OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDHQTENTACLEOBJECTSFULL.MBIN",
+						"OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDOBJECTSDEAD.MBIN",
+						"OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDOBJECTSFULL.MBIN",
+						"OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDOBJECTSLOW.MBIN",
+						"OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDOBJECTSMID.MBIN",
+						"OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDROCKYOBJECTS.MBIN",
+						"OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDROCKYWEIRDOBJECTS.MBIN",
+						"OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDROOMAOBJECTS.MBIN",
+						"OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDROOMBOBJECTS.MBIN",
+					},
+					["EXML_CHANGE_TABLE"] = {
+						{
+							["PRECEDING_KEY_WORDS"] = {"Objects","DetailObjects"},
+							["ADD"] = INFESTED_DETAILS
 						},
 					}
 				},
@@ -922,43 +1173,40 @@ NMS_MOD_DEFINITION_CONTAINER =
 							["PRECEDING_KEY_WORDS"] = {"Options"},
 							["ADD"] =
 [[        <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHBIGPROPSOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDBIGPROPSOBJECTSFULL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHHQOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDHQOBJECTSFULL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHHQTENTACLEOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDHQTENTACLEOBJECTSFULL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHOBJECTSDEAD.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDOBJECTSDEAD.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHOBJECTSLOW.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDOBJECTSLOW.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHOBJECTSMID.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDOBJECTSMID.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHOBJECTSFULL.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDOBJECTSFULL.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHROCKYOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDROCKYOBJECTS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHROCKYWEIRDOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDROCKYWEIRDOBJECTS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHBUBBLEOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDBUBBLEOBJECTS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHINFESTEDOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDROOMAOBJECTS.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHROOMAOBJECTS.MBIN" />
-        </Property>
-        <Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/LUSH/LUSHROOMBOBJECTS.MBIN" />
+          <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/DETAILOBJECTS/LUSH/LUSHINFESTEDROOMBOBJECTS.MBIN" />
         </Property>]]
 						},
 					}
