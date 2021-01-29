@@ -52,9 +52,6 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/SCORCHED/SCORCHCORALOBJECTS.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/SCORCHED/SCORCHEDALIENOBJECTS.MBIN" />
-        </Property>
-		<Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/SCORCHED/SCORCHEDOBJECTSLOW.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">
@@ -84,9 +81,6 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
         </Property>
 		<Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/SCORCHED/SCORCHCORALOBJECTS.MBIN" />
-        </Property>
-		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/SCORCHED/SCORCHEDALIENOBJECTS.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/SCORCHED/SCORCHEDOBJECTSDEAD.MBIN" />
@@ -121,9 +115,6 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
         </Property>
 		<Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/SCORCHED/SCORCHCORALOBJECTS.MBIN" />
-        </Property>
-		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/SCORCHED/SCORCHEDALIENOBJECTS.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/SCORCHED/SCORCHEDOBJECTSDEAD.MBIN" />
