@@ -1168,7 +1168,7 @@ NMS_MOD_DEFINITION_CONTAINER =
           <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/OBJECTS/LUSH/LUSHINFESTEDROOMBOBJECTS.MBIN" />
         </Property>]]
 						},
-						{--These are unedited files
+						{
 							["SPECIAL_KEY_WORDS"] = {"Name","DETAILOBJECTS"},
 							["PRECEDING_KEY_WORDS"] = {"Options"},
 							["ADD"] =

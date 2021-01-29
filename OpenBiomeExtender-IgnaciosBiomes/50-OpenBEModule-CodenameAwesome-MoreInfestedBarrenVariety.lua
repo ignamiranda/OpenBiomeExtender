@@ -1116,7 +1116,7 @@ NMS_MOD_DEFINITION_CONTAINER =
 					}
 				},
 				{--Add these new object lists to the appropriate biomes
-					["MBIN_FILE_SOURCE"] 	= {"OPENBE/BIOMEFILES/LUSH/LUSHINFESTEDBIOME.MBIN"},
+					["MBIN_FILE_SOURCE"] 	= {"OPENBE/BIOMEFILES/BARREN/BARRENINFESTEDBIOME.MBIN"},
 					["EXML_CHANGE_TABLE"] = {
 						--For testing purposes uncomment the following two lines to remove all other object lists
 						--{["SPECIAL_KEY_WORDS"] = {"Name","LANDMARKS","Value","IGNORE"},["REMOVE"] = "SECTION",},
@@ -1184,7 +1184,7 @@ NMS_MOD_DEFINITION_CONTAINER =
           <Property name="Value" value="OPENBE/OBJECTFILES/CODENAMEAWESOME/OBJECTS/BARREN/BARRENINFESTEDROCKYWEIRDOBJECTS.MBIN" />
         </Property>]]
 						},
-						{--These are unedited files
+						{
 							["SPECIAL_KEY_WORDS"] = {"Name","DETAILOBJECTS"},
 							["PRECEDING_KEY_WORDS"] = {"Options"},
 							["ADD"] =
