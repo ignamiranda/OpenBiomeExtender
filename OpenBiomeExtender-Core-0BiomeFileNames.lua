@@ -224,6 +224,7 @@ NMS_MOD_DEFINITION_CONTAINER =
 								{ [[DEADBIGPROPSBIOME.MXML]],	[[DEADBIOME.MXML]] },
 								{ [[DEADWATERBIOME.MXML]],	[[DEADBIOME.MXML]] },
 								{ [[DEADFROZENWEIRDBIOME.MXML]],	[[DEADFROZENBIOME.MXML]] },
+								{ [[HUGERING/HUGERINGBIOME.MXML]],	[[HUGELUSH/HUGELUSHBIOME.MXML]] },
 							}
 						},
 						{--Mountains will be handled in their individual biome file. That way we're not limited to just Dead type mountains. We can have grassy mountains in the Lush biome, where it makes sense, but not in Dead planets.

@@ -32,6 +32,9 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
         <Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/HUGEPROPS/HUGELUSH/HUGELUSHOBJECTSFULL.MBIN" />
         </Property>
+        <Property value="NMSString0x80.xml">
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DISTANTOBJECTS/HUGEPROPS/HUGERING/HUGERINGOBJECTSFULL.MBIN" />
+        </Property>
       </Property>
     </Property>
     <Property value="GcExternalObjectListOptions.xml">
@@ -64,6 +67,9 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
         <Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/HUGEPROPS/HUGELUSH/HUGELUSHOBJECTSFULL.MBIN" />
         </Property>
+        <Property value="NMSString0x80.xml">
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/OBJECTS/HUGEPROPS/HUGERING/HUGERINGOBJECTSFULL.MBIN" />
+        </Property>
       </Property>
     </Property>
     <Property value="GcExternalObjectListOptions.xml">
@@ -79,6 +85,9 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="Options">
         <Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/HUGEPROPS/HUGELUSH/HUGELUSHOBJECTSFULL.MBIN" />
+        </Property>
+		        <Property value="NMSString0x80.xml">
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/DETAILOBJECTS/HUGEPROPS/HUGERING/HUGERINGOBJECTSFULL.MBIN" />
         </Property>
       </Property>
     </Property>]]
