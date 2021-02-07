@@ -105,6 +105,14 @@ NMS_MOD_DEFINITION_CONTAINER =
 					["EXML_CHANGE_TABLE"] = 
 					{
 						{
+							["SPECIAL_KEY_WORDS"] = {"Name","MAIN"},
+							["REMOVE"] = "SECTION",
+						},
+						{
+							["SPECIAL_KEY_WORDS"] = {"Name","MAIN_ULTRA"},
+							["REMOVE"] = "SECTION",
+						},
+						{
 							["PRECEDING_KEY_WORDS"] = {"ExternalObjectLists"},
 							["ADD"] = SPLIT_OBJECT_LISTS,
 						},
