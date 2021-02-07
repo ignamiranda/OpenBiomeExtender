@@ -71,7 +71,7 @@ CAVE = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="TileType" value="GcTerrainTileType.xml">
         <Property name="TileType" value="Cave" />
       </Property>
-      <Property name="AllowLimiting" value="True" />
+      <Property name="AllowLimiting" value="False" />
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
@@ -90,7 +90,7 @@ CAVE = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="TileType" value="GcTerrainTileType.xml">
         <Property name="TileType" value="Cave" />
       </Property>
-      <Property name="AllowLimiting" value="True" />
+      <Property name="AllowLimiting" value="False" />
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
@@ -112,7 +112,7 @@ UNDERWATER = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="TileType" value="GcTerrainTileType.xml">
         <Property name="TileType" value="Underwater" />
       </Property>
-      <Property name="AllowLimiting" value="True" />
+      <Property name="AllowLimiting" value="False" />
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
@@ -143,7 +143,7 @@ UNDERWATER = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="TileType" value="GcTerrainTileType.xml">
         <Property name="TileType" value="Underwater" />
       </Property>
-      <Property name="AllowLimiting" value="True" />
+      <Property name="AllowLimiting" value="False" />
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">

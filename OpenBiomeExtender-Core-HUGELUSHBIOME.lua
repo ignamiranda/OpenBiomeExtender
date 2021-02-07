@@ -7,7 +7,7 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="TileType" value="GcTerrainTileType.xml">
         <Property name="TileType" value="Mountain" />
       </Property>
-      <Property name="AllowLimiting" value="True" />
+      <Property name="AllowLimiting" value="False" />
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
@@ -26,7 +26,7 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="TileType" value="GcTerrainTileType.xml">
         <Property name="TileType" value="Base" />
       </Property>
-      <Property name="AllowLimiting" value="True" />
+      <Property name="AllowLimiting" value="False" />
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
@@ -45,7 +45,7 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="TileType" value="GcTerrainTileType.xml">
         <Property name="TileType" value="Base" />
       </Property>
-      <Property name="AllowLimiting" value="True" />
+      <Property name="AllowLimiting" value="False" />
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
 		<Property value="NMSString0x80.xml">
@@ -61,7 +61,7 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="TileType" value="GcTerrainTileType.xml">
         <Property name="TileType" value="Base" />
       </Property>
-      <Property name="AllowLimiting" value="True" />
+      <Property name="AllowLimiting" value="False" />
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
@@ -80,7 +80,7 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="TileType" value="GcTerrainTileType.xml">
         <Property name="TileType" value="Base" />
       </Property>
-      <Property name="AllowLimiting" value="True" />
+      <Property name="AllowLimiting" value="False" />
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
         <Property value="NMSString0x80.xml">
