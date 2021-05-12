@@ -49,6 +49,9 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/FROZEN/FROZENHQOBJECTSMID.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/FROZEN/FROZENOBJECTSDEAD.MBIN" />
+        </Property>
+		<Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/FROZEN/FROZENOBJECTSLOW.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">

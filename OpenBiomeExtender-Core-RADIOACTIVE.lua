@@ -49,6 +49,9 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/RADIOACTIVE/RADIOACTIVEGLOWOBJECTS.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/RADIOACTIVE/RADIOACTIVEOBJECTSDEAD.MBIN" />
+        </Property>
+		<Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/RADIOACTIVE/RADIOACTIVEOBJECTSLOW.MBIN" />
         </Property>
         <Property value="NMSString0x80.xml">

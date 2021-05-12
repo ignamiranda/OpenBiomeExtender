@@ -45,6 +45,9 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="AllowLimiting" value="False" />
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
+        <Property value="NMSString0x80.xml">
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/HUGEPROPS/HUGELUSH/HUGELUSHOBJECTSFULL.MBIN" />
+        </Property>
 		<Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/LUSH/LUSHBIGPROPSOBJECTSFULL.MBIN" />
         </Property>
@@ -53,6 +56,9 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
         </Property>
 		<Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/LUSH/LUSHHQTENTACLEOBJECTSFULL.MBIN" />
+        </Property>
+		<Property value="NMSString0x80.xml">
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/LUSH/LUSHOBJECTSDEAD.MBIN" />
         </Property>
 		<Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/LUSH/LUSHOBJECTSLOW.MBIN" />

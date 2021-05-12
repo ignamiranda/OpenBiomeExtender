@@ -41,15 +41,15 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
       <Property name="Name" value="LANDMARKS" />
       <Property name="ResourceHint" value="" />
       <Property name="ResourceHintIcon" value="" />
-      <Property name="Probability" value="0.1" />
+      <Property name="Probability" value="0.5" />
       <Property name="TileType" value="GcTerrainTileType.xml">
         <Property name="TileType" value="Base" />
       </Property>
       <Property name="AllowLimiting" value="False" />
       <Property name="ChooseUsingLifeLevel" value="False" />
       <Property name="Options">
-		<Property value="NMSString0x80.xml">
-          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/LUSH/LUSHOBJECTSLOW.MBIN" />
+        <Property value="NMSString0x80.xml">
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/HUGEPROPS/HUGELUSH/HUGELUSHOBJECTSFULL.MBIN" />
         </Property>
       </Property>
     </Property>

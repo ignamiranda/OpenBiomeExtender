@@ -51,6 +51,9 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
 		<Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/SCORCHED/SCORCHCORALOBJECTS.MBIN" />
         </Property>
+        <Property value="NMSString0x80.xml">
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/SCORCHED/SCORCHEDOBJECTSDEAD.MBIN" />
+        </Property>
 		<Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/SCORCHED/SCORCHEDOBJECTSLOW.MBIN" />
         </Property>

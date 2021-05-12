@@ -54,6 +54,9 @@ SPLIT_OBJECT_LISTS = [[    <Property value="GcExternalObjectListOptions.xml">
         <Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENCORALOBJECTS.MBIN" />
         </Property>
+		<Property value="NMSString0x80.xml">
+          <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENOBJECTSDEAD.MBIN" />
+        </Property>
         <Property value="NMSString0x80.xml">
           <Property name="Value" value="OPENBE/OBJECTFILES/VANILLA/LANDMARKS/BARREN/BARRENOBJECTSLOW.MBIN" />
         </Property>
