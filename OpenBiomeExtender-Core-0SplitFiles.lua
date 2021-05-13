@@ -510,8 +510,13 @@ NMS_MOD_DEFINITION_CONTAINER =
 						"OPENBE/OBJECTFILES/VANILLA/OBJECTS/SWAMP/SWAMPOBJECTSFULL.MBIN",
 						"OPENBE/OBJECTFILES/VANILLA/OBJECTS/TOXIC/TOXICBIGPROPSOBJECTSFULL.MBIN",
 					},
-					["EXML_CHANGE_TABLE"] 	= -- Remove everything but Objects>DistantObjects
+					["EXML_CHANGE_TABLE"] 	= -- Remove DistantObjects
 					{
+						{
+							["PRECEDING_KEY_WORDS"] = {"Objects","DistantObjects",},----Change all of this
+							["ADD"] 	= [[    <Property name="DistantObjects" />]],
+							["REPLACE_TYPE"] = "ADDAFTERSECTION",
+						},
 						{
 							["PRECEDING_KEY_WORDS"] = {"Objects","DistantObjects",},----Change all of this
 							["REMOVE"] 	= "SECTION"
@@ -720,6 +725,11 @@ NMS_MOD_DEFINITION_CONTAINER =
 					},
 					["EXML_CHANGE_TABLE"] 	= -- Remove everything but Objects>Landmarks
 					{
+						{
+							["PRECEDING_KEY_WORDS"] = {"Objects","Landmarks",},----Change all of this
+							["ADD"] 	= [[    <Property name="Landmarks" />]],
+							["REPLACE_TYPE"] = "ADDAFTERSECTION",
+						},
 						{
 							["PRECEDING_KEY_WORDS"] = {"Objects","Landmarks",},----Change all of this
 							["REMOVE"] 	= "SECTION"
@@ -985,6 +995,11 @@ NMS_MOD_DEFINITION_CONTAINER =
 					{
 						{
 							["PRECEDING_KEY_WORDS"] = {"Objects","Objects",},----Change all of this
+							["ADD"] 	= [[    <Property name="Objects" />]],
+							["REPLACE_TYPE"] = "ADDAFTERSECTION",
+						},
+						{
+							["PRECEDING_KEY_WORDS"] = {"Objects","Objects",},----Change all of this
 							["REMOVE"] 	= "SECTION"
 						},
 					},
@@ -1233,6 +1248,11 @@ NMS_MOD_DEFINITION_CONTAINER =
 					},
 					["EXML_CHANGE_TABLE"] 	= -- Remove everything but Objects>DetailObjects
 					{
+						{
+							["PRECEDING_KEY_WORDS"] = {"Objects","DetailObjects",},----Change all of this
+							["ADD"] 	= [[    <Property name="DetailObjects" />]],
+							["REPLACE_TYPE"] = "ADDAFTERSECTION",
+						},
 						{
 							["PRECEDING_KEY_WORDS"] = {"Objects","DetailObjects",},----Change all of this
 							["REMOVE"] 	= "SECTION"
