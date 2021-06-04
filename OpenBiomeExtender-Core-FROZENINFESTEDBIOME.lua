@@ -109,10 +109,6 @@ NMS_MOD_DEFINITION_CONTAINER =
 							["REMOVE"] = "SECTION",
 						},
 						{
-							["SPECIAL_KEY_WORDS"] = {"Name","MAIN_ULTRA"},
-							["REMOVE"] = "SECTION",
-						},
-						{
 							["SPECIAL_KEY_WORDS"] = {"Name","CRYSTALS"},
 							["REMOVE"] = "SECTION",
 
